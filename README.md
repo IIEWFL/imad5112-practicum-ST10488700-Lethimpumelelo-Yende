@@ -91,6 +91,30 @@ PICTURES
 ![image](https://github.com/user-attachments/assets/ad0839ef-a45c-424f-bbf2-3e566432b2d8)
 ![image](https://github.com/user-attachments/assets/15e0c026-9e16-4809-a020-7a0cbceb5766)
 
+gitHub Link:https://github.com/IIEWFL/imad5112-practicum-ST10488700-Lethimpumelelo-Yende.git
+
+code attributions
+//CODE ATTRIBUTION
+//THIS METHOD WAS TAKEN FROM
+//https://www.geeksforgeeks.org/creating-multiple-screen-applications-in-android/
+// GEEKSFORGEEKS
+
+//CODE ATTRIBUTTION
+//THIS METHOD WAS TAKEN FROM
+//https://blog.poespas.me/posts/2024/05/31/handling-screens-in-android-kotlin/
+//UNKNOWNN ARTHOR
+
+//CODE ATTRIBUTIONS
+//THIS METHOD WAS TAKEN FROM
+//https://www.kodeco.com/android/paths/multiscreen-app
+//UNKNOWN ARTHOR
+
+//CODE ATTRIBUTIONS
+//THIS METHOD WAS TAKEN FROM
+//https://developer.android.com/courses/unit/kotlin-basics-unit-1
+//UNKNOWN ARTHOR
+
+
 
 
 
